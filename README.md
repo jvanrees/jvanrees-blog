@@ -45,7 +45,7 @@ email: your_email@example.com
 author: John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl: ""
-url: "http://pixyll.com"
+url: "https://jvanrees.com/"
 
 # Build settings
 markdown: kramdown
@@ -143,7 +143,7 @@ See [documentation](http://bryanbraun.github.io/anchorjs/#basic-usage) for more 
 
 ### Put in a Pixyll Plug
 
-If you want to give credit to the Pixyll theme with a link to <http://pixyll.com> or my personal website <http://johnotander.com> somewhere, that'd be awesome. No worries if you don't.
+If you want to give credit to the Pixyll theme with a link to <https://jvanrees.com/> or my personal website <http://johnotander.com> somewhere, that'd be awesome. No worries if you don't.
 
 ### Web analytics and search engines
 
@@ -217,4 +217,4 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 
 ## Forking
 
-There is a [guide to forking Pixyll](http://pixyll.com/jekyll/pixyll/2019/01/26/guide-to-forking-pixyll/).
+There is a [guide to forking Pixyll](https://jvanrees.com//jekyll/pixyll/2019/01/26/guide-to-forking-pixyll/).
