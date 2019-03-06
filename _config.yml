@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       Jeff Van Rees Maps
+email:       jeff@jvanrees.com
+author:      Jeff Van Rees
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+baseurl:     "/jvanrees-blog"
+url:         "https://jvanrees.com/jvanrees-blog"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
